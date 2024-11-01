@@ -1,6 +1,5 @@
 abstract class Activity
 {
-    // Protected properties to allow access in derived classes
     protected DateTime date;
     protected int minutes;
 
